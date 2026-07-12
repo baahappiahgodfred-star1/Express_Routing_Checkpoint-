@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    text-align: center;
+  }
+  
+  nav {
+    background: #222;
+    padding: 15px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+  }
+  
+  nav a:hover {
+    color: #00bcd4;
+  }
+  
+  .container {
+    margin-top: 80px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    color: #555;
+    font-size: 18px;
+  }
